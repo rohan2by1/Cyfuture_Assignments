@@ -82,7 +82,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 *   **Missing Dependencies:** Ensure all required packages are installed using `pip install -r requirements.txt` (if available) or by manually installing the necessary packages.
 *   **Environment Issues:**  Using a virtual environment helps isolate project dependencies and avoid conflicts.
 *   **Model Download Errors:** Some projects may require downloading pre-trained models.  Check the project's specific instructions for details on how to download and configure these models.
-*   **API Keys:** Some projects may require API keys for services like OpenAI. Make sure to set the appropriate environment variables or configuration settings with your API keys.
+
 
 ## Contributors 🧑‍💻
 
